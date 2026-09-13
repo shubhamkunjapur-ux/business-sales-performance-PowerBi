@@ -49,8 +49,8 @@ The objective is to transform raw sales data into meaningful business insights a
 - Sales and Profit Analysis
 
 ## 🖼️ Dashboard Preview
+([https://drive.google.com/file/d/1UYAX7m9FeW0w8GSws1cDAeQzIqFmh6i2/view?usp=sharing])
 
-![Power BI Dashboard](https://drive.google.com/file/d/11lP00YBJlnW2vZNJz_5WqxaZNK73Q4fv/view?usp=sharing)
 
 ## 🔍 Key Insights
 
@@ -84,8 +84,8 @@ Project documentation available in the `Report` folder.
 Dashboard screenshots available in the `Screenshots` folder.
 
 ## 🎥 Dashboard Demo
+([https://drive.google.com/file/d/1HjvXRl12LkTgrdP_CVgwxZclflCwVRGe/view?usp=sharing])
 
-[▶️ Watch the Dashboard Demonstration]((https://drive.google.com/file/d/1BFbGRL3mrXYDeVBvxirZS-_66FrqHU4i/view?usp=sharing))
 
 ## 👤 Author
 
